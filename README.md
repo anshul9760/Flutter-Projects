@@ -12,9 +12,11 @@ A} Mode of Transportation :
   1) Train
   2) Flight
   3) Bus
+
 B} Stay :
   1) Hotel
   2) Paying guest
+
 C} Cab Service :
   1) CAB particular
   2) CAB Rental
