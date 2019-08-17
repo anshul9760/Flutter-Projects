@@ -1,22 +1,16 @@
-# Tripbudgetcalculator
-This app crawl over internet and scrap out all the possible expenditure while organizing a Trip.
+# tripvisor
 
-Environments :
-1) Flutter App Programming
-2) Firebase 
-3) Python Scraping Scripts
+A new Flutter project.
 
-Database :
+## Getting Started
 
-A} Mode of Transportation :
-  1) Train
-  2) Flight
-  3) Bus
+This project is a starting point for a Flutter application.
 
-B} Stay :
-  1) Hotel
-  2) Paying guest
+A few resources to get you started if this is your first Flutter project:
 
-C} Cab Service :
-  1) CAB particular
-  2) CAB Rental
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
